@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://kunshans.github.io/ks.github.io/</link>
+    <link>http://kunshans.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kunshans.github.io/ks.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kunshans.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
